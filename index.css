@@ -43,7 +43,7 @@ h2 {
 }
 .para-text{
     position: absolute;
-    top: 45%;
+    top: 46%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     padding:25px;
@@ -199,7 +199,7 @@ h2 {
     .para-text{
         font-size: 20px;
         padding: 30px;
-        top: 49%;
+        top: 48%;
     }
     section{
         margin-top: 100px;
